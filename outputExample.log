@@ -1,0 +1,20 @@
+-------------------
+Value: XXXXXX - Occurrences: 7 - Password Strength: 0.25849624981361935
+Key: username, Path: secret/dev//XXXXX
+Key: database, Path: secret/prod//XXXXX
+Key: username, Path: secret/prod//XXXXX
+Key: database, Path: secret/dev//XXXXX
+Key: username, Path: secret/dev//XXXXX
+Key: database, Path: secret/prod//XXXXX
+Key: username, Path: secret/prod//XXXXX
+-------------------
+
+WARNING: Sensible duplicate found!
+-------------------
+Value: XXXXX - Occurrences: 5 - Password Strength: 0.9841876203736382
+Key: app_key, Path: secret/stage//XXXXX
+Key: app_key, Path: secret/prod//XXXXX
+Key: app_key, Path: secret/dev//XXXXX
+Key: app_key, Path: secret/stage//XXXXX
+Key: app_key, Path: secret/prod//XXXXX
+-------------------
